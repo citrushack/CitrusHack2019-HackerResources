@@ -13,6 +13,7 @@ If you are still unsure where to start, want expert guidance, or just need a sec
 7. [Atom](https://atom.io/) - has plug-ins written in Node.js, embedded Git Control, developed by GitHub
 8. [Vim](https://www.vim.org/) - highly customizable, edit code without having to leave your terminal
 9. [Emacs](https://www.gnu.org/software/emacs/tour/) - extensible, customizable, self-documenting real-time display editor
+10. [Arduino IDE](https://www.arduino.cc/en/Main/Software) - optimized for uploading code to Arduino microcontrollers
 
 ## Prepping Your Terminal
 The **terminal** on your computer, when the right resources are installed, is a powerful tool for running your code and building applications. Chances are, factory settings on your hacking machine aren't gonna cut it to streamline building your application/idea. 
@@ -66,6 +67,12 @@ The following is a list of tools/technologies help you turn your ordinary comput
    * [Mozilla Developer Network - JavaScript Tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
    * [The Modern JavaScript Tutorial](https://javascript.info/)
 
+## Git/GitHub
+* Git Commands - save, branch, checkout, track, upload, download, share, collaborate on, control versions of, revert, delete, nuke, etc. your code!
+   * [Cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+*  Markdown  - the language of ReadMe documents
+   * [Cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 ## Web Development
 ### Starting Out
   1.  [HTML](https://html.com/) - the "content" of a web page
@@ -106,3 +113,47 @@ Common Front-End Frameworks/Tools (used in conjunction with vanilla HTML/CSS/Jav
     * [ReactJS](https://reactjs.org/) - JavaScript library for building user interfaces, 'reacts' to user and dynamically changes the content of a web page, maintained by FaceBook
    * [VueJS](https://vuejs.org/) - open-source JavaScript library for building dynamic user interfaces, easy to pick up
 
+## Hardware Hacking
+
+Hardware Lab
+* Check out the official map on the [Citrus Hack Live](https://www.citrushack.com/live) page for the location of our Hardware/Tech Lab
+* See available hardware provided by [Major League Hacking](https://hardware.mlh.io/)
+
+Arduino IDE
+* the [official integrated development environment](https://www.arduino.cc/en/Main/Software) for Arduino programming
+* optimized for uploading code to Arduino microcontrollers
+
+Note: Soldering is **not allowed** at Citrus Hack.
+
+## Virtual/Augmented Reality
+[Unity]([https://unity3d.com/unity/whats-new/unity-2017.3.1)
+* a real-time 3D development platform
+* drag and drop static assets into your 3D scene
+* code dynamic elements events and elements using the C# language
+
+[Oculus - Unity SDK](https://developer.oculus.com/unity/)
+* the official software development kit for Oculus Rift hardware within Unity
+
+[VRTK - The All In One Virtual Reality Tool Kit for Unity](https://vrtoolkit.readme.io/)
+* comes with integrated GearVR and OculusVR SDKs
+* prebuilt libraries for locomotion, object-interaction, clipping, and more
+
+## Mobile Development
+[React Native](https://facebook.github.io/react-native/docs/getting-started.html)
+* build mobile apps in a React JS integrated environment
+* good for both Android and iOS applications
+* maintained by FaceBook
+    
+[Swift](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
+* for iOS app development
+*  Xcode is the proprietary development environment
+    
+
+[Java](https://developer.android.com/studio/) 
+* for Android app development
+* Android Studio is the recommended development environment
+
+[Flutter](https://flutter.dev)
+* an open-source mobile application development framework
+* good for both Android and iOS applications
+* maintained by Google
