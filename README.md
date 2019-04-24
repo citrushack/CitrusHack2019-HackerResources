@@ -1,5 +1,5 @@
 # Citrus Hack 2019 - Hacker Resources
-Some helpful guides and tutorials to point hackers in the right direction at Citrus Hack 2019! If you are still unsure where to start, want expert guidance, or just need a second opinion on what software to use, send a message to us on the #need-mentors channel on our [Slack](citrushack2019.slack.com) and we'll try our very best to help you get the ball rolling.
+Some helpful guides and tutorials to point hackers in the right direction at Citrus Hack 2019! If you are still unsure where to start, want expert guidance, or just need a second opinion on what software to use, send a message to us on the **#need-mentors channel** on our [Slack](citrushack2019.slack.com) and we'll try our very best to help you get the ball rolling.
 
 ## General Purpose Programming Languages
 1. [C++](http://www.cplusplus.com/) - object-oriented, allows for low level data manipulation 
@@ -50,8 +50,8 @@ Common Back-End Frameworks/Tools
 
 ***Front-End Development:*** the practice of converting data to graphical interface for user to view and interact with data through digital interaction using HTML, CSS and JavaScript
 
-Common Front-End Frameworks/Tools (used in conjunction with vanilla HTML/CSS/JavaScript)
- * HTML/CSS/JS
+Common Front-End Frameworks/Tools
+ * used in conjunction with vanilla HTML/CSS/JavaScript
     * [Bootstrap](https://getbootstrap.com/) - CSS/JS library that makes responsiveness between mobile and desktop web pages easy
     * [Semantic UI](https://semantic-ui.com/) - quickly build web pages with sleek, modern, and dynamically designed elements  
    * [Font Awesome](https://fontawesome.com/) - font and icon toolkit for simple yet effective icons and typography
