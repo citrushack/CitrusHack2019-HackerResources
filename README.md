@@ -1,5 +1,32 @@
 # Citrus Hack 2019 - Hacker Resources
-Some helpful guides and tutorials to point hackers in the right direction at Citrus Hack 2019! If you are still unsure where to start, want expert guidance, or just need a second opinion on what software to use, send a message to us on the **#need-mentors channel** on our [Slack](citrushack2019.slack.com) and we'll try our very best to help you get the ball rolling.
+Some helpful guides and tutorials to point hackers in the right direction at Citrus Hack 2019! 
+
+If you are still unsure where to start, want expert guidance, or just need a second opinion on what software to use, send a message to us on the **#need-mentors channel** on our [Slack](https://citrushack2019.slack.com/messages) and we'll try our very best to help you get the ball rolling.
+
+## Text Editors/IDE's: Places to Edit Your Code
+1. [Sublime Text 3](https://www.sublimetext.com/3) - light-weight, highly customizable, now has a companion app for [git integration](https://www.sublimemerge.com/)
+2. [Visual Studio](https://visualstudio.microsoft.com) - integrated development environment, used to develop computer programs, as well as websites, web apps, web services and mobile apps, developed by Microsoft
+3. [Visual Studio Code](https://code.visualstudio.com) - light-weight, highly customizable source-code editor developed by Microsoft
+4. [IntelliJ](https://www.jetbrains.com/idea/) - optimized integrated environment for developing in Java, developed by JetBrains
+5.  [Android Studio](https://developer.android.com/studio) - the official integrated development environment for Google's Android operating system
+6. [XCode](https://developer.apple.com/xcode/) - optimized for building iOS apps, includes 10+ gigabytes of other useful general purpose languages/libraries/tools
+7. [Atom](https://atom.io/) - has plug-ins written in Node.js, embedded Git Control, developed by GitHub
+8. [Vim](https://www.vim.org/) - highly customizable, edit code without having to leave your terminal
+9. [Emacs](https://www.gnu.org/software/emacs/tour/) - extensible, customizable, self-documenting real-time display editor
+
+## Prepping Your Terminal
+The **terminal** on your computer, when the right resources are installed, is a powerful tool for running your code and building applications. Chances are, factory settings on your hacking machine aren't gonna cut it to streamline building your application/idea. 
+
+The following is a list of tools/technologies help you turn your ordinary computer into a _certified_ **hacking** ***machine***!
+### MacOS Specific
+* [XCode](https://developer.apple.com/xcode/)
+   * includes numerous general purpose languages and tools for many kinds of projects
+   * even if you don't use the integrated environment, XCode is still very useful for getting an all-in-one starting package of languages installed
+* [Homebrew](https://brew.sh)
+   * a package manager for MacOS and Linux
+   * let's you install everything you might need that wasn't already included in XCode
+
+### Windows Specific
 
 ## General Purpose Programming Languages
 1. [C++](http://www.cplusplus.com/) - object-oriented, allows for low level data manipulation 
@@ -46,12 +73,13 @@ Common Back-End Frameworks/Tools
     * [Express](https://expressjs.com/) - web application framework for Node.js, designed for building web applications and APIs
  * Python
     * [Flask](http://flask.pocoo.org/) - micro web framework written in Python, easy to pick up
-    * [Django](https://www.djangoproject.com/) - model-view-template oriented
+    * [Django](https://www.djangoproject.com/) - model-view-template oriented, highly customizable (citrushack.com was built with this!)
+    * [.NET](https://dotnet.microsoft.com/download/dotnet-framework) -  a software framework optimized for building any kind application for Windows, developed by Microsoft
 
 ***Front-End Development:*** the practice of converting data to graphical interface for user to view and interact with data through digital interaction using HTML, CSS and JavaScript
 
-Common Front-End Frameworks/Tools
- * used in conjunction with vanilla HTML/CSS/JavaScript
+Common Front-End Frameworks/Tools (used in conjunction with vanilla HTML/CSS/JavaScript)
+ * HTML/CSS/JS
     * [Bootstrap](https://getbootstrap.com/) - CSS/JS library that makes responsiveness between mobile and desktop web pages easy
     * [Semantic UI](https://semantic-ui.com/) - quickly build web pages with sleek, modern, and dynamically designed elements  
    * [Font Awesome](https://fontawesome.com/) - font and icon toolkit for simple yet effective icons and typography
