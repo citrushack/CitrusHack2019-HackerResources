@@ -24,10 +24,27 @@ The following is a list of tools/technologies help you turn your ordinary comput
    * even if you don't use the integrated environment, XCode is still very useful for getting an all-in-one starting package of languages installed
 * [Homebrew](https://brew.sh)
    * a package manager for MacOS and Linux
-   * let's you install everything you might need that wasn't already included in XCode
+   * lets you install everything you might need that wasn't already included in XCode
 
 ### Windows Specific
+* [Ubuntu](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6?activetab=pivot:overviewtab)
+   * a Linux subsystem for your Windows machine
+   * allows you to run an emulated instance of Linux Ubuntu in a Windows environment
 
+### Operating System Agnostic (runs on any OS)
+* [Pip](https://pypi.org/project/pip/)
+   * the recommended package manager/installer for the Python language
+   * lets you quickly install and import libraries and packages to run in Python
+* [npm](https://www.npmjs.com)
+   * a package manager specifically for the JavaScript Language
+   * the go to tool for getting packages for Node.JS
+* [Git](https://git-scm.com/)
+   * version control and file version management system
+   * lets you maintain consistent versions of code
+   * useful for collaborating on a potentially large code base with several people
+* [GitHub](https://github.com/)
+   * a web-based hosting service for version control using Git
+   * offers all of the distributed version control and source code management functionality of Git as well as adding its own features
 ## General Purpose Programming Languages
 1. [C++](http://www.cplusplus.com/) - object-oriented, allows for low level data manipulation 
    * [Learn C++ - The Definitive Guide](https://www.programiz.com/cpp-programming)
